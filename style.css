@@ -1,0 +1,146 @@
+ 
+    /* .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); } */
+
+    @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+
+    body{
+        background-color:#C5E4E7;
+        background: #F2F2F2;
+        font-family: "Space Mono" ;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        line-height: 100%;
+        max-width: 100%;
+        max-height: 100%;
+        margin: 0px;
+        background-color: hsl(185, 41%, 84%);
+        justify-content: center;
+        display: flex;
+        
+        
+    }
+
+
+    .logodiv{
+        text-align: center;
+    }
+
+
+    .white-container {
+        background-color: hsl(0, 0%, 100%);
+        border-radius: 25px 25px 0px 0px;
+        padding: 32px;
+        align-items: center;
+        justify-content: left;
+        max-width: 920px;
+
+    }
+
+    .logodiv {
+        padding-top: 50px;
+        padding-bottom: 41px;
+        
+    }
+
+  
+
+    .billinput {
+        height: 48px;
+        /* position: relative;
+        display: flex;
+        justify-content: center; */
+    }
+
+    #dollaricon{
+
+        position:absolute;
+        left:19px;
+        top:17px;
+    }
+    
+    input {
+        width: 91%;
+        height: 100%;
+        left:50px ;
+    }
+
+    .wrap-container{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16.5px;
+       
+
+       
+    }
+    .tipbutton{
+        font-family: "Space Mono" ;
+        font-weight: 700;
+        font-size: 24px;
+    }
+    
+
+    .tipbutton{
+        width: 146px;
+        height: 48px;
+        border-radius: 5px;
+    }
+
+    .tipbutton{
+        background-color: #00474B;
+        color: #FFFFFF;
+    }
+
+    .tip_number{
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    .total_number{
+        display: flex;
+        justify-content: space-between;
+    }
+    .tipamount{
+        color: #FFFFFF;
+    }
+
+    .total{
+        color: #FFFFFF;
+    }
+
+
+
+
+
+
+    .outputcontainer{
+        padding: 37px 22px 24px 24px;
+        background-color: #00474B;
+        margin-top: 32px;
+        border-radius: 15px;
+    }
+
+    .reset{
+        width: 281px;
+        height: 48px;
+        border-radius: 5px;
+        background-color: #26c2ae;
+        text-transform: uppercase;
+        font-size: 20px;
+        line-height: 29.6px;
+        text-align: center;
+        font-weight: bold;
+        
+    }
+
+
+
+    
+
+
+    
+
+  
+
