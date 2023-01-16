@@ -21,8 +21,8 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Tip calculator](https://lashasuxa.github.io/tip-calculator-app-main/)
-- Live Site URL: [Tip calculator](https://github.com/lashasuxa/tip-calculator-app-main)
+- Solution URL: [Tip calculator](https://github.com/lashasuxa/tip-calculator-app-main)
+- Live Site URL: [Tip calculator](https://lashasuxa.github.io/tip-calculator-app-main/)
 
 ## My process
 
