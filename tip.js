@@ -10,7 +10,7 @@ const selectTipBtns = document.querySelectorAll(".select-tip-percentage");
 
 btnReset.addEventListener("click", (event) => {
   // Reset the inputs and values
-  billInput.value = "0";
+  billInput.value = "";
   customTipInput.value = "";
   numberOfPeopleInput.value = "1";
   tipAmountValue.innerHTML = "$0";
